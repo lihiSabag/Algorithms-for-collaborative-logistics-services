@@ -26,5 +26,8 @@ The project is created with:
 * Pip
 * memory_profiler
   
-	
+## Authors
+
+* Lihi Sabag
+* Bar Sela	
 
