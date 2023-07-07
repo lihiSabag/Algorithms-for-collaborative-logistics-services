@@ -4,7 +4,6 @@ A Python Implementation of a heuristic-based Solution to Pickup and Delivery Pro
 ## Table of contents
 * [Project Summary](#Project-Summary)
 * [Requirements](#Requirements)
-* [Installation](#Installation)
 * [Authors](#Authors)
 
 ## Project Summary
@@ -28,8 +27,4 @@ The project is created with:
 * memory_profiler
   
 	
-## Installation
-* Open a folder for this project and clone this repository by writing the following command in command-line:
-```
 
-```
